@@ -1,4 +1,4 @@
-## ArrythmiaChatbot❤️
+## ArrythmiaChatbot🫀
 A chatbot that provides recommendations for patients with different types of arrhythmias.
 
 ### Steps
